@@ -83,7 +83,7 @@ $maxSize = 500 * 1024 * 1024; // 500 МБ
 // ===== Настройки БД ===== //
 // заменить если отличается + см. db.sql
 $host = 'localhost';
-$dbname = 'file_manager'; // задано в bd.sql
+$dbname = 'file_manager'; // задано в db.sql
 $dbuser = 'user';
 $dbpass = '12345678';
 
